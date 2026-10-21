@@ -1,0 +1,10 @@
+snapshot_date,store,product_id,product_name,category,units_on_hand,units_28d,units_per_day,reorder_point,shortfall_units
+2025-12-28,Park,P034,Beauty item 10,Beauty,2,12,0.43,12,10
+2025-12-28,Harbor,P017,Household item 05,Household,2,8,0.29,8,6
+2025-12-28,Market,P051,Apparel item 03,Apparel,2,8,0.29,8,6
+2025-12-28,Park,P017,Household item 05,Household,2,8,0.29,8,6
+2025-12-28,Park,P051,Apparel item 03,Apparel,2,8,0.29,8,6
+2025-12-28,Harbor,P034,Beauty item 10,Beauty,2,7,0.25,7,5
+2025-12-28,Harbor,P051,Apparel item 03,Apparel,2,5,0.18,5,3
+2025-12-28,Harbor,P038,Electronics item 02,Electronics,12,13,0.46,13,1
+2025-12-28,Market,P017,Household item 05,Household,2,3,0.11,3,1

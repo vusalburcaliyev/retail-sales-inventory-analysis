@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 480">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="90" y="38" font-size="23" font-family="Arial" fill="#1a2a44">Gross profit by category</text>
+<text x="90" y="61" font-size="13" font-family="Arial" fill="#526277">Synthetic retail data · currency units</text>
+<line x1="90" y1="380" x2="930" y2="380" stroke="#9aa8b7"/>
+<rect x="115.2" y="107.7" width="117.6" height="272.3" fill="#287c9f"/>
+<text x="174.0" y="100.7" text-anchor="middle" font-size="11" font-family="Arial">66,192</text>
+<text x="174.0" y="401" text-anchor="middle" font-size="11" font-family="Arial">Apparel</text>
+<rect x="283.2" y="213.4" width="117.6" height="166.6" fill="#287c9f"/>
+<text x="342.0" y="206.4" text-anchor="middle" font-size="11" font-family="Arial">40,497</text>
+<text x="342.0" y="401" text-anchor="middle" font-size="11" font-family="Arial">Beauty</text>
+<rect x="451.2" y="149.3" width="117.6" height="230.7" fill="#287c9f"/>
+<text x="510.0" y="142.3" text-anchor="middle" font-size="11" font-family="Arial">56,071</text>
+<text x="510.0" y="401" text-anchor="middle" font-size="11" font-family="Arial">Electronics</text>
+<rect x="619.2" y="314.3" width="117.6" height="65.7" fill="#287c9f"/>
+<text x="678.0" y="307.3" text-anchor="middle" font-size="11" font-family="Arial">15,964</text>
+<text x="678.0" y="401" text-anchor="middle" font-size="11" font-family="Arial">Grocery</text>
+<rect x="787.2" y="260.7" width="117.6" height="119.3" fill="#287c9f"/>
+<text x="846.0" y="253.7" text-anchor="middle" font-size="11" font-family="Arial">29,009</text>
+<text x="846.0" y="401" text-anchor="middle" font-size="11" font-family="Arial">Household</text>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 480">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="90" y="38" font-size="23" font-family="Arial" fill="#1a2a44">Monthly revenue</text>
+<text x="90" y="61" font-size="13" font-family="Arial" fill="#526277">Synthetic retail data · currency units</text>
+<line x1="90" y1="380" x2="930" y2="380" stroke="#9aa8b7"/>
+<rect x="100.5" y="107.7" width="49.0" height="272.3" fill="#287c9f"/>
+<text x="125.0" y="100.7" text-anchor="middle" font-size="11" font-family="Arial">55,136</text>
+<text x="125.0" y="401" text-anchor="middle" font-size="11" font-family="Arial">2025-01</text>
+<rect x="170.5" y="150.4" width="49.0" height="229.6" fill="#287c9f"/>
+<text x="195.0" y="143.4" text-anchor="middle" font-size="11" font-family="Arial">46,485</text>
+<text x="195.0" y="401" text-anchor="middle" font-size="11" font-family="Arial">2025-02</text>
+<rect x="240.5" y="118.9" width="49.0" height="261.1" fill="#287c9f"/>
+<text x="265.0" y="111.9" text-anchor="middle" font-size="11" font-family="Arial">52,856</text>
+<text x="265.0" y="401" text-anchor="middle" font-size="11" font-family="Arial">2025-03</text>
+<rect x="310.5" y="122.9" width="49.0" height="257.1" fill="#287c9f"/>
+<text x="335.0" y="115.9" text-anchor="middle" font-size="11" font-family="Arial">52,050</text>
+<text x="335.0" y="401" text-anchor="middle" font-size="11" font-family="Arial">2025-04</text>
+<rect x="380.5" y="116.6" width="49.0" height="263.4" fill="#287c9f"/>
+<text x="405.0" y="109.6" text-anchor="middle" font-size="11" font-family="Arial">53,322</text>
+<text x="405.0" y="401" text-anchor="middle" font-size="11" font-family="Arial">2025-05</text>
+<rect x="450.5" y="136.7" width="49.0" height="243.3" fill="#287c9f"/>
+<text x="475.0" y="129.7" text-anchor="middle" font-size="11" font-family="Arial">49,260</text>
+<text x="475.0" y="401" text-anchor="middle" font-size="11" font-family="Arial">2025-06</text>
+<rect x="520.5" y="118.7" width="49.0" height="261.3" fill="#287c9f"/>
+<text x="545.0" y="111.7" text-anchor="middle" font-size="11" font-family="Arial">52,903</text>
+<text x="545.0" y="401" text-anchor="middle" font-size="11" font-family="Arial">2025-07</text>
+<rect x="590.5" y="131.1" width="49.0" height="248.9" fill="#287c9f"/>
+<text x="615.0" y="124.1" text-anchor="middle" font-size="11" font-family="Arial">50,391</text>
+<text x="615.0" y="401" text-anchor="middle" font-size="11" font-family="Arial">2025-08</text>
+<rect x="660.5" y="138.7" width="49.0" height="241.3" fill="#287c9f"/>
+<text x="685.0" y="131.7" text-anchor="middle" font-size="11" font-family="Arial">48,854</text>
+<text x="685.0" y="401" text-anchor="middle" font-size="11" font-family="Arial">2025-09</text>
+<rect x="730.5" y="126.7" width="49.0" height="253.3" fill="#287c9f"/>
+<text x="755.0" y="119.7" text-anchor="middle" font-size="11" font-family="Arial">51,275</text>
+<text x="755.0" y="401" text-anchor="middle" font-size="11" font-family="Arial">2025-10</text>
+<rect x="800.5" y="121.3" width="49.0" height="258.7" fill="#287c9f"/>
+<text x="825.0" y="114.3" text-anchor="middle" font-size="11" font-family="Arial">52,373</text>
+<text x="825.0" y="401" text-anchor="middle" font-size="11" font-family="Arial">2025-11</text>
+<rect x="870.5" y="122.3" width="49.0" height="257.7" fill="#287c9f"/>
+<text x="895.0" y="115.3" text-anchor="middle" font-size="11" font-family="Arial">52,183</text>
+<text x="895.0" y="401" text-anchor="middle" font-size="11" font-family="Arial">2025-12</text>
+</svg>

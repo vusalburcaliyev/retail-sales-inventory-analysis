@@ -1,0 +1,7 @@
+issue,count
+category_normalized,2
+duplicate_sale_id_excluded,1
+duplicate_snapshot_excluded,1
+invalid_sales_value_excluded,3
+invalid_snapshot_excluded,1
+unknown_sales_key_excluded,1
